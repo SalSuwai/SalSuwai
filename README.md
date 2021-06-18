@@ -1,6 +1,6 @@
 <h1 align="center">Greetings 👋, my name is Salman AlSuwaina! </h1>
 <h3 align="center">DATA Enthusiast</h3>
-<p align="middle"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SalSuwai&margin-w=15&margin-h=15" alt="SalSuwai" /></a></p>
+
 
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/SalSuwai?tab=repositories).
@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/salman-alsuwaina-03a5581a6/" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://twitter.com/salman_mohsu" target="blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> 
 </p>
 
 <h3 align="left">Languages:</h3>
