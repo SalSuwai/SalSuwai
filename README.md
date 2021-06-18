@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/salman-alsuwaina-03a5581a6/" target="blank">
-
+<a href="https://www.linkedin.com/in/salman-alsuwaina-03a5581a6/" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+</p>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
