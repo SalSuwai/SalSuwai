@@ -1,4 +1,4 @@
-<h1 align="center">Greetings, my name is Salman AlSuwaina! </h1>
+<h1 align="center">Greetings 👋, my name is Salman AlSuwaina! </h1>
 <h3 align="center">DATA Enthusiast</h3>
 <p align="middle"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SalSuwai&margin-w=15&margin-h=15" alt="SalSuwai" /></a></p>
 
