@@ -25,7 +25,6 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/4a90e2/python.png" alt="python" width="40" height="40"/> </a>
 <a href="https://www.learn-c.org/" target="_blank"> <img src="https://img.icons8.com/color/48/4a90e2/c-programming.png" alt="C" width="40" height="40"/> </a>
 <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/4a90e2/dart.png" alt="Dart" width="40" height="40"/> </a>
-<a href="" target="_blank"> <img src="https://img.icons8.com/color/48/4a90e2/javascript.png" alt="javascript" width="40" height="40"/> </a>
 </p>
 
 
